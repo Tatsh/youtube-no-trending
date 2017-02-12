@@ -1,0 +1,9 @@
+Package: sh.tat.notrending
+Name: NoTrending
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes Trending tab from YouTube
+Maintainer: Tatsh
+Author: Tatsh
+Section: Tweaks
